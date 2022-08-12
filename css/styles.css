@@ -223,7 +223,7 @@ pointer-events: none;
 
 }
 .modal {
-    position:relative;
+    position:absolute;
     top: 50%;
     left: 50%;
 
@@ -747,7 +747,7 @@ fill: currentColor;
 }
 
 .footer-div-mail {
-margin-left: 93px;
+margin-left: auto;
 }
 
 .footer-label  {
